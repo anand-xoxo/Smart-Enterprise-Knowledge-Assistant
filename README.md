@@ -18,9 +18,7 @@ It uses **Retrieval-Augmented Generation (RAG)** powered by **OpenAI GPT-4o** an
 
 ## 🖥️ UI Preview
 
-| Upload PDF | Ask Questions | Memory Chat |
-|------------|---------------|-------------|
-| ![](https://your-upload-screenshot-link.com) | ![](https://your-query-screenshot-link.com) | ![](https://your-chat-screenshot-link.com) |
+--still in work--
 
 ---
 
