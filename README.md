@@ -47,7 +47,7 @@ Raising a query:-
 
 2). assistant_backend.py       # Core RAG logic
 
-3). .env (write your api keys here and other secured details in this env file)
+3). .env (create a .env file in your environment and write your api keys and other secured details in this env file)
 
 4). README.md
 
