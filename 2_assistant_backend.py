@@ -32,7 +32,7 @@ client = weaviate.connect_to_weaviate_cloud(
 # Redis Client
 import redis
 
-UPSTASH_URL = "rediss://default:Ad7NAAIjcDE5ZWZiNzY2MWQzMzQ0NTEwYTk5MjlhYzMwNGZiMTkxMXAxMA@rational-ferret-57037.upstash.io:6379"
+UPSTASH_URL = "rediss://default:Ad7NAAIjcDE5ZWZiNzY2MWQzMzQ0NTEwYTk5MjlhYzMwNGZiMTkxMXAxMA@rational-ferret-57037.upstash.io:6379" #change this to your own upstash_url 
 
 r = redis.from_url(UPSTASH_URL, decode_responses=True)
 
