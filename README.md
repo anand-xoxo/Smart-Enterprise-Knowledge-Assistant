@@ -44,7 +44,10 @@ Raising a query:-
 
 ## 📁 Project Structure
 1). app.py                      # Streamlit UI
+
 2). assistant_backend.py       # Core RAG logic
-3). .env (write your api keys here and other secured details in this env file
+
+3). .env (write your api keys here and other secured details in this env file)
+
 4). README.md
 
