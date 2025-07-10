@@ -43,8 +43,8 @@ Raising a query:-
 
 
 ## 📁 Project Structure
-├── app.py                      # Streamlit UI
-├── assistant_backend.py       # Core RAG logic
-├── .env (write your api keys here and other secured details in this env file
-└── README.md
+1). app.py                      # Streamlit UI
+2). assistant_backend.py       # Core RAG logic
+3). .env (write your api keys here and other secured details in this env file
+4). README.md
 
